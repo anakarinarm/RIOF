@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: Red de Investigadorxs en Oceanogrfía Física
+title: Red de Investigadorxs en Oceanogarfía Física
 
 # Your name to show in the footer
-author: Red de Investigadorxs en Oceanogrfía Física
+author: Red de Investigadorxs en Oceanografía Física
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "RIOF"
+  RIOF: 
   Seminario interinstitucional:
   Reuniones: 
   Participantes:
