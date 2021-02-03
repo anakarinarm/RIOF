@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Acerca de RIOF
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+La RIOF surge de ...
+ y busca ...
+ 
+### Organizadores:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Efraín Moreles** 
+Instituto de Ciencias del MAr y Linmología, UNAM
 
-What else do you need?
+**Erick Raúl Olvera Prado** 
+Centro de Ciencias de la Atmósfera, UNAM
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[**Ana Karina Ramos Musalem**](https://anakarinarm.github.io) 
+Centro de Ciencias de la Atmósfera, UNAM
+kramosmu@atmosfera.unam.mx
