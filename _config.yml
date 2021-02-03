@@ -101,13 +101,13 @@ feed_show_tags: false
 navbar-col: "#0081A7"
 navbar-text-col: "#FDFCDC"
 navbar-border-col: "#FDFCDC"
-page-col: "#FFFFFF"
+page-col: "#FDFCDC"
 text-col: "#404040"
-link-col: "#F95738"
-hover-col: "#0085A1"
-footer-col: "#00AFB9"
-footer-text-col: "#FBD24B"
-footer-link-col: "#F95738"
+link-col: "#00AFB9"
+hover-col: "#F95738"
+footer-col: "#0081A7"
+footer-text-col: "#FDFCDC"
+footer-link-col: "#FBD24B"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
