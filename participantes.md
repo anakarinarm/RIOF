@@ -3,15 +3,15 @@ layout: page
 title: Lista de participantes
 ---
 
-**Dr. Efraín Moreles** - ICMyL, UNAM
-Áreas de investigacion
+<p>[**Dr. Efraín Moreles**](https://www.icmyl.unam.mx/es/quienes_somos/personal_academico/moreles-vazquez-luis-efrain) - ICMyL, UNAM<br>
+Líneas de investigacion<p/>
 
 
-**Dr. Erick Raúl Olvera Prado** - CCA, UNAM
-Áreas de investigacion
+<p>**Dr. Erick Raúl Olvera Prado** - CCA, UNAM<br>
+Líneas de investigacion<p/>
 
-**Dra. Karina Ramos Musalem** - CCA, UNAM
-Flujo sobre Topografía, Oceanografía de la Plataforma, Modelación Numérica y de Laboratorio 
+<p>[**Dra. Karina Ramos Musalem**](https://anakarinarm.github.io) - CCA, UNAM<br>
+Flujo sobre topografía, dinámica de la plataforma, modelación numérica y de laboratorio<p/> 
 
   
 
