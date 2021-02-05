@@ -7,7 +7,7 @@ Este seminario virtual busca dar a conocer el trabajo de investigador@s que est�
 
 Si te interesa compartir tu trabajo en el seminario [envíanos un correo](https://anakarinarm.github.io/RIOF/acercade).
 
-### Próximos seminarios
+## Próximos seminarios
 
 #### Primavera 2021
 Cada segundo jueves de marzo a junio a las 16:00 hrs (Tiempo del Centro)
@@ -24,5 +24,5 @@ Cada segundo jueves de marzo a junio a las 16:00 hrs (Tiempo del Centro)
 |11 junio|||
 |25 junio|||
 
-### Seminarios pasados
+## Seminarios pasados
 
