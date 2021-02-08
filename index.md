@@ -3,7 +3,7 @@ layout: home
 title: Red de Investigadores en Oceanografía Física
 ---
 
-![RIOF](assets/img/RIOF_logo.png)
+![RIOF](assets/img/RIOF_logo_smaller.png)
 
 ¡Bienvenid@! Esta red busca acercar a l@s investigador@s en oceanografía física y áreas afines 
 con el propósito de promover y fomentar la colaboración entre distintos grupos del país. En particular,

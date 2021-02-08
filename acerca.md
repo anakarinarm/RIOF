@@ -11,7 +11,7 @@ catedrátic@s e investigador@s-- dando a conocer su trabajo y creando espacios p
 
 Si tienes comentarios, sugerencias o te interesa participar envíanos un correo.
 
-![RIOF](assets/img/RIOF_logo.png)
+![RIOF](assets/img/RIOF_logo_smaller.png)
  
 ### Organizadores:
 
