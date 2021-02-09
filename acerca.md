@@ -16,7 +16,7 @@ Si tienes comentarios, sugerencias o te interesa participar envíanos un correo.
 
 [**Efraín Moreles**](https://www.icmyl.unam.mx/es/quienes_somos/personal_academico/moreles-vazquez-luis-efrain)<br>
 Instituto de Ciencias del Mar y Limnología, UNAM<br>
-correo
+moreles@cmarl.unam.mx
 
 **Erick Raúl Olvera Prado**<br>
 Centro de Ciencias de la Atmósfera, UNAM<br>
