@@ -11,6 +11,7 @@ catedrátic@s e investigador@s-- dando a conocer su trabajo y creando espacios p
 
 Si tienes comentarios, sugerencias o te interesa participar envíanos un correo.
 
+[Únete a la lista de correos](https://docs.google.com/forms/d/e/1FAIpQLScI5Ombv1c9GWSFtnmA9Kex8h19H0J4XMBtn1KwDtL-JKibKg/viewform?usp=sf_link) para enterarte de los próximos eventos y seminarios.
 ### Organizadores:
 
 [**Efraín Moreles**](https://www.icmyl.unam.mx/es/quienes_somos/personal_academico/moreles-vazquez-luis-efrain)<br>

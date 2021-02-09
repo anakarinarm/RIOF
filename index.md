@@ -24,7 +24,7 @@ Para ello organizamos los siguentes eventos:
 
  de marzo de 2021: Reunión en gather - Proyectos a presentar
 
-## Únete a la [lista de correos]() para enterarte de nuestros próximos eventos. 
+## Únete a la [lista de correos](https://docs.google.com/forms/d/e/1FAIpQLScI5Ombv1c9GWSFtnmA9Kex8h19H0J4XMBtn1KwDtL-JKibKg/viewform?usp=sf_link) para enterarte de nuestros próximos eventos. 
 
 
 
