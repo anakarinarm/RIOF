@@ -11,10 +11,6 @@ catedrátic@s e investigador@s-- dando a conocer su trabajo y creando espacios p
 
 Si tienes comentarios, sugerencias o te interesa participar envíanos un correo.
 
-<p align="center">
-  <img src="assets/img/RIOF_logo_smaller.png" />
-</p>
- 
 ### Organizadores:
 
 [**Efraín Moreles**](https://www.icmyl.unam.mx/es/quienes_somos/personal_academico/moreles-vazquez-luis-efrain)<br>
@@ -23,7 +19,7 @@ correo
 
 **Erick Raúl Olvera Prado**<br>
 Centro de Ciencias de la Atmósfera, UNAM<br>
-correo
+erick@atmosfera.unam.mx
 
 [**Ana Karina Ramos Musalem**](https://anakarinarm.github.io)<br> 
 Centro de Ciencias de la Atmósfera, UNAM<br>
