@@ -7,17 +7,18 @@ title: Red de Investigadores en Oceanografía Física
   <img src="assets/img/RIOF_logo_smaller.png" />
 </p>
 
-<p align=""center">
+<H3 align="center">
 ¡Bienvenid@! 
-<\p>
+</H3>
+
 La red busca acercar a l@s investigador@s en oceanografía física y áreas afines con el propósito de promover y 
 fomentar la colaboración entre los distintos grupos del país. Queremos establecer una red de apoyo para 
 quienes recién inician su carrera académica –como posdoctorantes, catedrátic@s e investigadores– 
 dando a conocer su trabajo y creando espacios para convivir y colaborar.
 
 Para ello organizamos los siguientes eventos:
-* [Seminario](https://anakarinarm.github.io/RIOF/seminario/) (webinar) impartido por investigador@s que se inician como académic@s.
-* [Incubadora de proyectos](https://anakarinarm.github.io/RIOF/incubadora/) informales mensuales para discutir ideas y proyectos con la comunidad.
+* [Seminario](https://anakarinarm.github.io/RIOF/seminario/) Pláticas quincenales tipo webinar para presentar la investigación realizada por la comunidad.
+* [Incubadora de proyectos](https://anakarinarm.github.io/RIOF/incubadora/) Reuniones mensuales para discutir ideas, proyectos y establecer colaboraciones con la comunidad.
 
 ### Próximos eventos
 
