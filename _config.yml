@@ -14,7 +14,7 @@ author: Red de Investigadorxs en Oceanografía Física
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Inicio:"https://anakarinarm.github.io/RIOF"
+  Inicio:"index"
   Acerca de: "acerca"
   Seminario: "seminario"
   Incubadora de Proyectos: "incubadora"
