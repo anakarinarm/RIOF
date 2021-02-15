@@ -4,7 +4,7 @@ title: Seminario Interinstitucional
 ---
 
 Este seminario virtual busca dar a conocer el trabajo de investigador@s que están iniciando su carrera 
-académica en el área de oceanografía fisica y están dirigidos a toda 
+académica en el área de oceanografía física y están dirigidos a toda 
 la comunidad oceanográfica del país. Tendremos dos temporadas de pláticas: de marzo a junio y de septiembre a diciembre de 2021.
 
 Si te interesa compartir tu trabajo en el seminario [envíanos un correo](https://anakarinarm.github.io/RIOF/acercade).

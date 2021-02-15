@@ -4,7 +4,7 @@ title: Red de Investigadores en Oceanografía Física
 ---
 
 <p align="center">
-  <img src="assets/img/RIOF_logo_smaller.png" />
+  <img src="assets/img/Riof_smaller.png" />
 </p>
 
 <H3 align="center">
