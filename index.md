@@ -22,10 +22,7 @@ Para ello organizamos los siguientes eventos:
 
 ### Próximos eventos
 
-de marzo de 2021: //Título de la plática// Ponente - Seminario 
-
-
-de marzo de 2021: Reunión en gather - Proyectos a presentar
+19 de marzo de 2021: //Título de la plática// Ponente - Seminario 
 
 ## Únete a la [lista de correos](https://docs.google.com/forms/d/e/1FAIpQLScI5Ombv1c9GWSFtnmA9Kex8h19H0J4XMBtn1KwDtL-JKibKg/viewform?usp=sf_link) para enterarte de nuestros próximos eventos. 
 

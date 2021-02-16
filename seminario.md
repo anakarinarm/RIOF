@@ -16,7 +16,6 @@ Cada segundo jueves de marzo a junio a las 16:00 hrs (Tiempo del Centro)
 
 |Fecha|Ponente|Título|
 |:--:|:--:|:--:|
-|04 marzo| Juana Doe| Algo interesante|
 |19 marzo| ||
 |02 abril| ||
 |16 abril|||
