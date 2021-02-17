@@ -7,7 +7,7 @@ Este seminario virtual busca dar a conocer el trabajo de investigador@s que est�
 académica en el área de oceanografía física y están dirigidos a toda 
 la comunidad oceanográfica del país. Tendremos dos temporadas de pláticas: de marzo a junio y de septiembre a diciembre de 2021.
 
-Si te interesa compartir tu trabajo en el seminario [envíanos un correo](https://anakarinarm.github.io/RIOF/acercade).
+Si te interesa compartir tu trabajo en el seminario [envíanos un correo](https://anakarinarm.github.io/RIOF/acerca/).
 
 ## Próximos seminarios
 
