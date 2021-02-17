@@ -12,12 +12,12 @@ Si te interesa compartir tu trabajo en el seminario [envíanos un correo](https:
 ## Próximos seminarios
 
 #### Primavera 2021
-Cada segundo jueves de marzo a junio a las 16:00 hrs (Tiempo del Centro)
+Cada segundo jueves de marzo a junio a las 17:00 hrs (Tiempo del Centro)
 
 |Fecha|Ponente|Título|
 |:--:|:--:|:--:|
-|18 marzo| ||
-|01 abril| ||
+|18 marzo|||
+|01 abril|||
 |15 abril|||
 |29 abril|||
 |13 mayo|||
