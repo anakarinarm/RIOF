@@ -16,14 +16,14 @@ Cada segundo jueves de marzo a junio a las 16:00 hrs (Tiempo del Centro)
 
 |Fecha|Ponente|Título|
 |:--:|:--:|:--:|
-|19 marzo| ||
-|02 abril| ||
-|16 abril|||
-|30 abril|||
-|14 mayo|||
-|28 mayo|||
-|11 junio|||
-|25 junio|||
+|18 marzo| ||
+|01 abril| ||
+|15 abril|||
+|29 abril|||
+|13 mayo|||
+|27 mayo|||
+|10 junio|||
+|24 junio|||
 
 ## Seminarios pasados
 
