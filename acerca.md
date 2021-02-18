@@ -14,6 +14,10 @@ Si tienes comentarios, sugerencias o te interesa participar envíanos un correo.
 [Únete a la lista de correos](https://docs.google.com/forms/d/e/1FAIpQLScI5Ombv1c9GWSFtnmA9Kex8h19H0J4XMBtn1KwDtL-JKibKg/viewform?usp=sf_link) para enterarte de los próximos eventos y seminarios.
 ### Organizadores:
 
+[**Karina Ramos Musalem**](https://anakarinarm.github.io)<br> 
+Centro de Ciencias de la Atmósfera, UNAM<br>
+kramosmu@atmosfera.unam.mx
+
 [**Efraín Moreles**](https://www.icmyl.unam.mx/es/quienes_somos/personal_academico/moreles-vazquez-luis-efrain)<br>
 Instituto de Ciencias del Mar y Limnología, UNAM<br>
 moreles@cmarl.unam.mx
@@ -22,6 +26,3 @@ moreles@cmarl.unam.mx
 Centro de Ciencias de la Atmósfera, UNAM<br>
 erick@atmosfera.unam.mx
 
-[**Ana Karina Ramos Musalem**](https://anakarinarm.github.io)<br> 
-Centro de Ciencias de la Atmósfera, UNAM<br>
-kramosmu@atmosfera.unam.mx
