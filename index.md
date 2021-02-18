@@ -22,7 +22,7 @@ Para ello organizamos los siguientes eventos:
 
 ### Próximos eventos
 
-18 de marzo de 2021:  
+**18 de marzo de 2021**: Seminario impartido por la Dra. Sheila N. Estrada Allis (CICESE). Título por anunciarse.
 
 ## Únete a la [lista de correos](https://docs.google.com/forms/d/e/1FAIpQLScI5Ombv1c9GWSFtnmA9Kex8h19H0J4XMBtn1KwDtL-JKibKg/viewform?usp=sf_link) para enterarte de nuestros próximos eventos. 
 
