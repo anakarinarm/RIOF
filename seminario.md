@@ -12,18 +12,18 @@ Si te interesa compartir tu trabajo en el seminario [envíanos un correo](https:
 ## Próximos seminarios
 
 #### Primavera 2021
-Cada segundo jueves de marzo a junio a las 17:00 hrs (Tiempo del Centro)
+Cada segundo martes de marzo a junio a las 17:00 hrs (Tiempo del Centro)
 
 |Fecha|Ponente|Título|Resumen|
 |:--:|:--:|:--:|:--:|
-|18 marzo|Sheila N. Estrada-Allis (CICESE)|||
-|01 abril|Leonardo Tenorio (CICIMAR-IPN)|||
-|15 abril|Gabriela Athié (ICIMAP-Universidad Veracruzana)|||
-|29 abril||||
-|13 mayo||||
-|27 mayo||||
-|10 junio||||
-|24 junio||||
+|16 marzo|Sheila N. Estrada-Allis (CICESE)|||
+|30 marzo|Leonardo Tenorio (CICIMAR-IPN)|||
+|13 abril|Gabriela Athié (ICIMAP-Universidad Veracruzana)|||
+|27 abril||||
+|11 mayo||||
+|25 mayo||||
+|8 junio||||
+|22 junio||||
 
 ## Seminarios pasados
 
