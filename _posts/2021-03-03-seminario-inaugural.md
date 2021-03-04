@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Seminario Inaugural
-subtitle: Seminarios ciclo de primavera 2021
-tags: [seminarios]
+title: Seminario Inaugural de Oceanografía Física
+subtitle: Ponente: Dra. Sheila N. Estrada Allis (CICESE)
+tags: [seminarios-2021]
 published: true
 ---
 
-# Seminario Inaugural de Oceanografía Física
 
-## 16 de marzo de 2021 | 17:00 hrs (Centro)
+## "Desarrollo de un sistema con Asimilación de Datos para el Golfo de México: Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala"
 
-### "Desarrollo de un sistema con Asimilación de Datos para el Golfo de México: 
-Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala"
+#### Dra. Sheila Natalí Estrada Allis <br>
+Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California 
 
-#### Dra. Sheila Natalí Estrada Allis
- 
+**16 de marzo de 2021 | 17:00 hrs (Centro)**
+
 Desde un primer punto de vista, los modelos con asimilación de datos apoyan a la creación de planes de contingencia
  y previsión mediante la predicción del estado del océano. Particularmente importante son cuestiones 
 relacionadas con el derrame de hidrocarburos en el océano y el arribamiento de Sargazo en las costas mexicanas. 

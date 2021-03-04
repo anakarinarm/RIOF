@@ -16,7 +16,7 @@ Cada segundo martes de marzo a junio a las 17:00 hrs (Tiempo del Centro)
 
 |Fecha|Ponente|Título|
 |:--:|:--:|:--:|
-|16 marzo|Sheila N. Estrada-Allis (CICESE)|Desarrollo de un sistema con asimilación de datos para el Golfo de México: Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala|
+|16 marzo|Sheila N. Estrada-Allis (CICESE)|[Desarrollo de un sistema con asimilación de datos para el Golfo de México: Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala](https://anakarinarm.github.io/RIOF/2021-03-03-seminario-inaugural/)|
 |30 marzo|Leonardo Tenorio (CICIMAR-IPN)||
 |13 abril|Gabriela Athié (ICIMAP-Universidad Veracruzana)||
 |27 abril|Fernando Andrade (IIO-UABC)||
