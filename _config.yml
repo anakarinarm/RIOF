@@ -14,12 +14,11 @@ author: Red de Investigadorxs en Oceanografía Física
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Inicio: "index"
+  Inicio: "/"
   Acerca de: "acerca"
   Seminario: "seminario"
   Incubadora de Proyectos: "incubadora"
   Participantes: "participantes"
-  Archivo: "archivo"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
