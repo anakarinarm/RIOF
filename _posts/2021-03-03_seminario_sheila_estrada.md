@@ -2,18 +2,15 @@
 layout: post
 title: Seminario Inaugural de Oceanografía Física: Dra. Sheila Estrada
 subtitle: Seminarios ciclo de primavera 2021
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [seminarios]
-comments: true
 ---
 
 # Seminario Inaugural de Oceanografía Física
 
 ## 16 de marzo de 2021 | 17:00 hrs (Centro)
 
-### ''Desarrollo de un sistema con Asimilación de Datos para el Golfo de México: 
-Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala''
+### "Desarrollo de un sistema con Asimilación de Datos para el Golfo de México: 
+Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala"
 
 #### Dra. Sheila Natalí Estrada Allis
  
