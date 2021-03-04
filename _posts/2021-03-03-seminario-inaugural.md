@@ -8,10 +8,10 @@ published: true
 
 ## "Desarrollo de un sistema con Asimilación de Datos para el Golfo de México: Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala"
 
-#### Dra. Sheila Natalí Estrada Allis <br>
+#### Dra. Sheila Natalí Estrada Allis
 Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California 
 
-**16 de marzo de 2021 | 17:00 hrs (Centro)**
+**16 de marzo de 2021 \| 17:00 hrs (Centro)**
 
 Desde un primer punto de vista, los modelos con asimilación de datos apoyan a la creación de planes de contingencia
  y previsión mediante la predicción del estado del océano. Particularmente importante son cuestiones 
