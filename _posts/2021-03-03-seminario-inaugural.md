@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Seminario Inaugural de Oceanografía Física
-subtitle: Ponente: Dra. Sheila N. Estrada Allis (CICESE)
+subtitle: Dra. Sheila N. Estrada Allis (CICESE)
 tags: [seminarios-2021]
 published: true
 ---
-
 
 ## "Desarrollo de un sistema con Asimilación de Datos para el Golfo de México: Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala"
 
