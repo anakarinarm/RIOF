@@ -8,7 +8,7 @@ published: true
 
 ## "Desarrollo de un sistema con Asimilación de Datos para el Golfo de México: Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala"
 
-#### Dra. Sheila Natalí Estrada Allis
+**Dra. Sheila Natalí Estrada Allis**<br>
 Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California 
 
 **16 de marzo de 2021 \| 17:00 hrs (Centro)**
