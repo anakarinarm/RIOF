@@ -14,16 +14,17 @@ Si te interesa compartir tu trabajo en el seminario [envíanos un correo](https:
 #### Primavera 2021
 Cada segundo martes de marzo a junio a las 17:00 hrs (Tiempo del Centro)
 
-|Fecha|Ponente|Título|Resumen|
-|:--:|:--:|:--:|:--:|
-|16 marzo|Sheila N. Estrada-Allis (CICESE)|||
-|30 marzo|Leonardo Tenorio (CICIMAR-IPN)|||
-|13 abril|Gabriela Athié (ICIMAP-Universidad Veracruzana)|||
-|27 abril|Fernando Andrade (IIO-UABC)|||
-|11 mayo||||
-|25 mayo||||
-|8 junio||||
-|22 junio||||
+|Fecha|Ponente|Título|
+|:--:|:--:|:--:|
+|16 marzo|Sheila N. Estrada-Allis (CICESE)|Desarrollo de un sistema con asimilación de datos para el Golfo de México: 
+Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala|
+|30 marzo|Leonardo Tenorio (CICIMAR-IPN)||
+|13 abril|Gabriela Athié (ICIMAP-Universidad Veracruzana)||
+|27 abril|Fernando Andrade (IIO-UABC)||
+|11 mayo|||
+|25 mayo|||
+|8 junio|||
+|22 junio|||
 
 ## Seminarios pasados
 
