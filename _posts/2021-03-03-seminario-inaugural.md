@@ -5,6 +5,7 @@ subtitle: Dra. Sheila N. Estrada Allis (CICESE)
 tags: [seminarios-2021]
 published: true
 ---
+Enlace de zoom: [https://cuaed-unam.zoom.us/j/83684324223](https://cuaed-unam.zoom.us/j/83684324223)
 
 ## "Desarrollo de un sistema con Asimilación de Datos para el Golfo de México: Hacia la convergencia del acoplamiento físico-biogeoquímico y procesos de submesoescala"
 
