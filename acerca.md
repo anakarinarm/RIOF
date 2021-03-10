@@ -3,7 +3,7 @@ layout: page
 title: Acerca de RIOF
 ---
 
-Esta red busca crear acercar a l@s investigador@s en oceanografía 
+Esta red busca acercar a l@s investigador@s en oceanografía 
 física y áreas afines con el propósito de promover y facilitar la colaboración 
 entre distintos grupos del país. En particular, nos interesa funcionar como red de apoyo 
 para l@s investigador@s que recién inician su carrera académica --como posdoctorantes, 
