@@ -20,7 +20,7 @@ Cada segundo martes de marzo a junio a las **17:00 hrs** (Tiempo del Centro)
 |30 marzo|Leonardo Tenorio (CICIMAR-IPN)|||
 |13 abril|Gabriela Athié (ICIMAP-Universidad Veracruzana)|||
 |27 abril|Fernando Andrade (IIO-UABC)|||
-|11 mayo||||
+|11 mayo|Nathali Cordero (UCSC)|||
 |25 mayo||||
 |8 junio||||
 |22 junio||||
